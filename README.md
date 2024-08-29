@@ -5,6 +5,7 @@ macOS base systems for download!
 NOTE: Wifi only works if you have a Broadband Wifi chip.
 # Installation
 
-for the installation go to:
 Releases(Mac-BaseSystems):https://github.com/0xEcoder/Mac-BaseSystems/releases
+
+for the installation go to:
 https://dortania.github.io/OpenCore-Install-Guide/
